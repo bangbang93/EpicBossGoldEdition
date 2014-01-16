@@ -11,7 +11,7 @@ public class EpicNormal {
 	Random r = new Random();
 	public String cmdName, file;
 	public List<EpicItemStack> list = new ArrayList<EpicItemStack>();
-	int Exp = 0;
+	public int Exp = 0;
 	
 	public EpicNormal(List<String> strings, String name, String file)
 	{
